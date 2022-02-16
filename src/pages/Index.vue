@@ -44,7 +44,6 @@ export default ({
   mounted() {
     
   
-      
       var token = localStorage.getItem('access_token')
       if(token){
       
